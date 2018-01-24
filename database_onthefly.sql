@@ -90,8 +90,6 @@ INSERT INTO user(userID, password, registrationDate)
   
 VALUES ("samuel", "sam2017", NOW()),("helen", "helen2017", NOW());
 
-select * from user;
-
 -- SOFT's Item Category list
 
 INSERT INTO category (categoryName, categoryDescription) 
